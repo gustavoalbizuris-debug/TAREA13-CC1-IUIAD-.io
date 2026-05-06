@@ -1,0 +1,16 @@
+{
+  name App Tarea 13 Galileo,
+  short_name App Tarea13,
+  start_url index.html,
+  display standalone,
+  background_color #0a192f,
+  theme_color #0056b3,
+  description Desarrollo Frontend con IA - PWA Responsiva,
+  icons [
+    {
+      src httpswww.galileo.eduwp-contentthemesgalileo-themeimglogo-galileo.png,
+      sizes 192x192,
+      type imagepng
+    }
+  ]
+}
